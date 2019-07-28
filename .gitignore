@@ -1,3 +1,6 @@
+# Customer Ignore
+cmake-build-debug
+
 # Prerequisites
 *.d
 
